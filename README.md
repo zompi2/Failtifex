@@ -35,14 +35,23 @@ Stand next to a board and pick task with "A", then go to a workstation and keep 
 Press "A" to use your bat. Hit workstations to break them, but not too fast, or producer will check on you. Don't let him catch you red-handed or he will give you a talk. You only win if by time's end the sprint fails.
 
 **Credits:**
+
 --- The V-Team ---
+
 *Programming:*
+
 Piotr Hawryluk
+
 Damian Nowakowski
+
 *Art:*
-Adam Frañczak
+
+Adam FraÃ±czak
+
 *Design:*
+
 Konrad Knapek
+
 
 ----
 
