@@ -46,8 +46,8 @@ Konrad Knapek
 
 ----
 
-More about the project: http://zompi.pl/lunar-maze/
+More about the project: http://zompi.pl/failtifex-studio-the-amjam-2017-game/
 
-Don't want to build? It's ok, You can download and play it from here (Windows 64bit only) https://zompi.itch.io/l-lunar-maze
+Don't want to build? It's ok, You can download and play it from here (Windows 64bit only) https://zompi.itch.io/failtifex-studio
 
 Don't want to play? Uh.. okeyyyy... There is a gameplay video on youtube as well :D https://www.youtube.com/watch?v=QOItXHHJPA0
