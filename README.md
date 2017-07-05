@@ -36,21 +36,14 @@ Press "A" to use your bat. Hit workstations to break them, but not too fast, or 
 
 **Credits:**
 
---- The V-Team ---
-
-*Programming:*
-
-Piotr Hawryluk
-
-Damian Nowakowski
-
-*Art:*
-
-Adam Frañczak
-
-*Design:*
-
-Konrad Knapek
+--- The V-Team ---  
+*Programming:*  
+Piotr Hawryluk  
+Damian Nowakowski  
+*Art:*  
+Adam Frañczak  
+*Design:*  
+Konrad Knapek  
 
 
 ----
