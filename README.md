@@ -8,31 +8,31 @@ The game requires two game pads to play, so you will need a friend :)
 
 ----
 
-**1.Intro**
-![](screen.jpg)
-Meet a team at the edge of an epic fail.
+**1.Intro**  
+![](screen.jpg)  
+Meet a team at the edge of an epic fail.  
 
-Job of Player 1, the Developer, is to pick tickets from the board and complete tasks at any workstation. Tasks vary in difficulty: blue are the easiest, but red bring sprint closer to completion. That the clock is ticking!
+Job of Player 1, the Developer, is to pick tickets from the board and complete tasks at any workstation. Tasks vary in difficulty: blue are the easiest, but red bring sprint closer to completion. That the clock is ticking!  
 
-Player 2 plays as Schwarz Charakter. Management has messed with him one time too many. He will sabotage the sprint on his last day of work and spread the majestic mayhem without alerting the producer in the other room.
+Player 2 plays as Schwarz Charakter. Management has messed with him one time too many. He will sabotage the sprint on his last day of work and spread the majestic mayhem without alerting the producer in the other room.  
 
-Will team of Failtifex Studio fail fast or complete sprint successfully?
+Will team of Failtifex Studio fail fast or complete sprint successfully?  
 
-**2. Controls**
-*Developer:*
-Movement - left analog stick
-Context Action - (A)
+**2. Controls**  
+*Developer:*  
+Movement - left analog stick  
+Context Action - (A)  
 
-*Schwarz Charakter:*
-Movement 			- left analog stick
-Attack				- (A)
+*Schwarz Charakter:*  
+Movement 			- left analog stick  
+Attack				- (A)  
 
-**3. Gameplay**
-*Developer:* 
-Stand next to a board and pick task with "A", then go to a workstation and keep on pressing "A" fast to fill in the task progress bar. Complete the sprint before time runs out.
+**3. Gameplay**  
+*Developer:*  
+Stand next to a board and pick task with "A", then go to a workstation and keep on pressing "A" fast to fill in the task progress bar. Complete the sprint before time runs out.  
 	
-*Schwarz Charakter:*
-Press "A" to use your bat. Hit workstations to break them, but not too fast, or producer will check on you. Don't let him catch you red-handed or he will give you a talk. You only win if by time's end the sprint fails.
+*Schwarz Charakter:*  
+Press "A" to use your bat. Hit workstations to break them, but not too fast, or producer will check on you. Don't let him catch you red-handed or he will give you a talk. You only win if by time's end the sprint fails.  
 
 **Credits:**
 
@@ -44,7 +44,6 @@ Damian Nowakowski
 Adam Frañczak  
 *Design:*  
 Konrad Knapek  
-
 
 ----
 
