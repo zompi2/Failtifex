@@ -47,7 +47,7 @@ Konrad Knapek
 
 ----
 
-More about the project: http://zompi.pl/failtifex-studio-the-amjam-2017-game/
+More about the project: https://damnow.blogspot.com/2017/07/failtifex-studio-amjam-2017-game.html
 
 Don't want to build? It's ok, You can download and play it from here (Windows 64bit only) https://zompi.itch.io/failtifex-studio
 
